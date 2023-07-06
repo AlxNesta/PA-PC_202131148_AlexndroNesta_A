@@ -59,7 +59,7 @@ Dengan menggunakan konsep-konsep di atas, codingan tersebut mengimplementasikan 
 - Sertakan rincian foto yang telah diambil
 - Pindahkan foto dalam satu folder yang sama agar gambar mudah untuk dibaca 
 - Kemudian copy codingan yang ada dibawah ini ke dalam Jupyter Notebook
-- Pada bagian image_path = "plat22.jpg" bisa digantikan dengan nama foto yang kalian pakai
+- Pada bagian image_path = "NamaFileGambar.jpg" bisa digantikan dengan nama foto yang kalian pakai
 - Kemudian Run Program
 ## Codingan
 
